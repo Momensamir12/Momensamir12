@@ -3,7 +3,6 @@
 <div align="center">
   <strong>Backend & Systems Engineer</strong> | Microservices | Distributed Systems | Low-Level Programming
   
-  [Email](mailto:momen.samir.eb@gmail.com) • [GitHub](https://github.com/Momensamir12) • [LinkedIn](https://www.linkedin.com/in/mo-men-samir-501707238/) • [Resume](https://drive.google.com/file/d/1DyxJaas8dseh5JzhROww8HVp4eh-93qM/view)
 </div>
 
 ---
