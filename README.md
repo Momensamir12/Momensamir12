@@ -1,59 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mo'men Samir</h1>
-<h3 align="center">Backend & Systems Engineer | Microservices | Distributed Systems | Low-Level Programming</h3>
+# 👋 Hi, I'm Mo'men Samir
 
-<p align="center">
-  I’m a backend and systems engineer with a passion for building scalable, high-performance applications.  
-  I enjoy working on distributed systems, microservices, real-time applications, and low-level projects that deepen my understanding of software under the hood.  
-  I love collaborating with others to solve challenging problems, learning from experienced developers, and improving my skills through hands-on projects.
-</p>
-
----
-
-### 📄 Resume
-[View my resume](https://drive.google.com/file/d/1DyxJaas8dseh5JzhROww8HVp4eh-93qM/view)
+<div align="center">
+  <strong>Backend & Systems Engineer</strong> | Microservices | Distributed Systems | Low-Level Programming
+  
+  [Email](mailto:momen.samir.eb@gmail.com) • [GitHub](https://github.com/Momensamir12) • [LinkedIn](https://www.linkedin.com/in/mo-men-samir-501707238/) • [Resume](https://drive.google.com/file/d/1DyxJaas8dseh5JzhROww8HVp4eh-93qM/view)
+</div>
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="mailto:momen.samir.eb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Momensamir12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/mo-men-samir-501707238/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+## 🎯 About Me
+
+I'm a backend and systems engineer passionate about building **scalable, high-performance systems**. I have hands-on experience with microservices architecture, distributed systems design, and low-level system programming.
+
+I thrive on solving complex engineering challenges, understanding how things work under the hood, and collaborating with teams to deliver robust solutions. I'm constantly learning and improving through practical projects and real-world applications.
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8s" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-</p>
+## 🛠️ Technical Stack
+
+**Languages**
+```
+C • C++ • C# • Java • Python • JavaScript
+```
 
 ---
 
-### 🔭 Current Focus
-- Building robust backend systems with microservices architecture.
-- Learning advanced distributed systems and performance optimization.
-- Exploring low-level system programming and OS concepts.
+## 🎓 Focus Areas
+
+- **Building robust backend systems** with microservices and distributed architectures
+- **Performance optimization** and low-level system understanding
+- **Advanced concurrency** patterns and memory management
+- **Cloud-native development** with containerization and orchestration
+- **Event-driven systems** and messaging architecture
 
 ---
 
-### 🌱 Learning
-- Advanced concurrency and memory management in C/C++.
-- Cloud-native applications and container orchestration (Kubernetes, Docker).
-- Event-driven architecture and messaging systems.
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Mo'men's GitHub stats](https://github-readme-stats.vercel.app/api?username=Momensamir12&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing interesting projects, technical challenges, and opportunities to collaborate.
+
+- **Email:** [momen.samir.eb@gmail.com](mailto:momen.samir.eb@gmail.com)
+- **GitHub:** [@Momensamir12](https://github.com/Momensamir12)
+- **LinkedIn:** [Mo'men Samir](https://www.linkedin.com/in/mo-men-samir-501707238/)
+- **Resume:** [Download](https://drive.google.com/file/d/1DyxJaas8dseh5JzhROww8HVp4eh-93qM/view)
+
+---
+
+<div align="center">
+  <i>Crafting systems, one commit at a time.</i>
+</div>
