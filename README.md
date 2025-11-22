@@ -10,9 +10,7 @@
 
 ## 🎯 About Me
 
-I'm a backend and systems engineer passionate about building **scalable, high-performance systems**. I have hands-on experience with microservices architecture, distributed systems design, and low-level system programming.
-
-I thrive on solving complex engineering challenges, understanding how things work under the hood, and collaborating with teams to deliver robust solutions. I'm constantly learning and improving through practical projects and real-world applications.
+I'm a software engineer learning computer science, web development, and distributed systems. I'm passionate about web technologies, cloud computing, and building scalable, high-performance systems. I'm motivated to gain real-world experience, apply my knowledge to solving impactful problems, and continue growing my expertise in software engineering and modern development practices.
 
 ---
 
@@ -23,17 +21,29 @@ I thrive on solving complex engineering challenges, understanding how things wor
 C • C++ • C# • Java • Python • JavaScript
 ```
 
+**Backend & Architecture**
+```
+Spring Boot • ASP.NET Core • Microservices • REST APIs
+JWT Authentication • Async Messaging • Clean Architecture
+```
+
+**Databases & Caching**
+```
+PostgreSQL • MySQL • MongoDB • Redis
+```
+
+**Infrastructure & DevOps**
+```
+Docker • Kubernetes • Apache Kafka • SignalR
+```
+
+**Frontend**
+```
+React • Tailwind CSS • HTML5 • CSS3
+```
+
 ---
 
-## 🎓 Focus Areas
-
-- **Building robust backend systems** with microservices and distributed architectures
-- **Performance optimization** and low-level system understanding
-- **Advanced concurrency** patterns and memory management
-- **Cloud-native development** with containerization and orchestration
-- **Event-driven systems** and messaging architecture
-
----
 
 ## 📊 GitHub Stats
 
