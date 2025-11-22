@@ -56,4 +56,4 @@
 ### 🌱 Learning
 - Advanced concurrency and memory management in C/C++.
 - Cloud-native applications and container orchestration (Kubernetes, Docker).
-- Event-driven architecture and messaging systems (Kafka, RabbitMQ).
+- Event-driven architecture and messaging systems.
