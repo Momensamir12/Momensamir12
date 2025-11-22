@@ -14,36 +14,30 @@ I'm a software engineer learning computer science, web development, and distribu
 
 ---
 
-## 🛠️ Technical Stack
-
-**Languages**
-```
-C • C++ • C# • Java • Python • JavaScript
-```
-
-**Backend & Architecture**
-```
-Spring Boot • ASP.NET Core • Microservices • REST APIs
-JWT Authentication • Async Messaging • Clean Architecture
-```
-
-**Databases & Caching**
-```
-PostgreSQL • MySQL • MongoDB • Redis
-```
-
-**Infrastructure & DevOps**
-```
-Docker • Kubernetes • Apache Kafka • SignalR
-```
-
-**Frontend**
-```
-React • Tailwind CSS • HTML5 • CSS3
-```
-
----
-
+🛠️ Technical Stack
+Languages
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/></a>
+Backend & Frameworks
+<a href="#"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
+Databases & Caching
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/></a>
+Infrastructure & DevOps
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="k8s" width="50" height="50"/></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/></a>
+Frontend & Styling
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="50" height="50"/></a>
 
 ## 📊 GitHub Stats
 
