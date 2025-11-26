@@ -72,6 +72,3 @@ I'm always open to discussing interesting projects, technical challenges, and op
 
 ---
 
-<div align="center">
-  <i>Crafting systems, one commit at a time.</i>
-</div>
